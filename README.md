@@ -1,5 +1,6 @@
 # boiler-plate-ko
 노드 리액트 기초 강의 boiler-plate
+
 https://www.youtube.com/playlist?list=PL9a7QRYt5fqkZC9jc7jntD1WuAogjo_9T
 
 
@@ -52,4 +53,5 @@ npx create-react-app .
 
 ## 17 npm & npx
 npm : Node.js의 의존성과 패키지 관리를 위한 패키지 매니저
+
 npx : Node 패키지를 실행시키는 하나의 도구, 실행 할 때마다 최신 버전의 모듈을 불러와서, 설치 하고 다시 그 모듈을 삭제하는 방식
