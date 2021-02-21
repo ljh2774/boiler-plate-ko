@@ -37,3 +37,19 @@ auth route 구현
 로그아웃 route 구현
 1. 로그아웃하려는 유저를 DB에서 찾는다.
 2. 해당 유저의 토큰을 삭제한다.
+
+## 15 React
+What is React JS?
+1. Library
+2. Components, reusable이 뛰어남
+3. Virtual DOM
+
+Babel : 최신 JS문법을 구형 브라우저에서 돌 수 있게 변환 시켜줌.
+Webpack : Javascript Application의 Static Module Bundler
+
+## 16 Create-React-App
+npx create-react-app .
+
+## 17 npm & npx
+npm : Node.js의 의존성과 패키지 관리를 위한 패키지 매니저
+npx : Node 패키지를 실행시키는 하나의 도구, 실행 할 때마다 최신 버전의 모듈을 불러와서, 설치 하고 다시 그 모듈을 삭제하는 방식
