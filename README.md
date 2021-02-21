@@ -61,7 +61,7 @@ npx : Node 패키지를 실행시키는 하나의 도구, 실행 할 때마다 �
 X
 
 ## 19 CRA to Our BoilerPlate
-###### src폴더 구조 - BoilerPlate 특성화된 구조
+### src폴더 구조 - BoilerPlate 특성화된 구조
 * _actions : Redux를 위한 폴더
 * _reducer : Redux를 위한 폴더
 * components/views : Page들을 넣는다.
@@ -71,5 +71,5 @@ X
 * hoc : Higher Order Component
 * utils : 여러 군데에서 쓰일 수 있는 것들을 넣는다.
 
-###### 확장프로그램
+### 확장프로그램
 * ES7 React/Redux/GraphQL/React-Native snippets : rfce, rcc 등
