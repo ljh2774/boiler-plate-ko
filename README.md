@@ -8,6 +8,7 @@ https://www.youtube.com/playlist?list=PL9a7QRYt5fqkZC9jc7jntD1WuAogjo_9T
 npm install nodemon --save-dev
 
 ## 9 비밀 정보 보호
+X
 
 ## 10 Bcrypt로 비밀번호 암호화 하기
 Bcrypt를 이용하여 비밀번호를 암호화 후 DB에 저장
@@ -55,3 +56,20 @@ npx create-react-app .
 npm : Node.js의 의존성과 패키지 관리를 위한 패키지 매니저
 
 npx : Node 패키지를 실행시키는 하나의 도구, 실행 할 때마다 최신 버전의 모듈을 불러와서, 설치 하고 다시 그 모듈을 삭제하는 방식
+
+## 18 구조 설명
+X
+
+## 19 CRA to Our BoilerPlate
+src폴더 구조 - BoilerPlate 특성화된 구조
+* _actions : Redux를 위한 폴더
+* _reducer : Redux를 위한 폴더
+* components/views : Page들을 넣는다.
+* components/views/Sections : 해당 Page에 관련된 css, component 등을 넣는다.
+* App.js : Routing 관련 일을 처리한다.
+* Config.js : 환경 변수 등을 정하는 곳
+* hoc : Higher Order Component
+* utils : 여러 군데에서 쓰일 수 있는 것들을 넣는다.
+
+확장프로그램
+* ES7 React/Redux/GraphQL/React-Native snippets : rfce, rcc 등
