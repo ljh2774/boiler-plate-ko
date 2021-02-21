@@ -16,9 +16,13 @@ https://www.npmjs.com/package/bcrypt
 npm install bcrypt --save
 
 ## 11 로그인 기능 with Bcrypt
-
 1. 요청된 Email을 DB에서 찾기
 2. 요청된 Email이 DB에 있다면 PW확인
 3. PW가 맞다면 토큰 생성
 
+## 12 토큰 생성 with jsonwebtoken
+https://www.npmjs.com/package/jsonwebtoken
 
+npm install jsonwebtoken --save
+
+npm install cookie-parser --save
