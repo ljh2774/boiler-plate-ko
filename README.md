@@ -148,3 +148,10 @@ npm install redux react-redux redux-promise redux-thunk --save
 X
 
 ## 29 로그인 페이지 (1)
+X
+
+## 30 로그인 페이지 (2)
+X
+
+## 31 회원 가입 페이지
+X
