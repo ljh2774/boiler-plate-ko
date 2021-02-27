@@ -107,3 +107,12 @@ npm install http-proxy-middleware --save
 2. 캐시를 이용해 더 빠른 인터넷 이용 제공
 3. 더 나은 보안 제공
 4. 이용 제한된 사이트 접근 가능
+
+## 24 Concurrently
+여러 개의 commands를 동시에 작동시킬 수 있게 해주는 Tool
+ex) 프론트, 백 서버를 동시에 켜기
+
+npm install concurrently --save
+```js
+"start": "concurrently \"command1" \"command2\""
+```
