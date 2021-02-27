@@ -132,3 +132,15 @@ npm install concurrently --save
 http://ant.design/
 
 npm install antd --save
+
+## 26 Redux 기초
+state 관리 라이브러리
+
+## 27 Redux Setting UP
+#### 필요한 Dependency
+npm install redux react-redux redux-promise redux-thunk --save
+1. redux
+2. react-redux
+3. redux-promise
+4. redux-thunk
+
