@@ -82,3 +82,14 @@ https://reactrouter.com/web/guides/quick-start
 ## 21 데이터 Flow & Axios
 
 npm install axios --save
+
+## 22 CORS 이슈, Proxy 설정
+#### Cross-Origin Resource Sharing
+CORS정책 때문에
+두 개의 다른 포트를 가지고 있는 서버는 아무 설정없이 Request를 보낼 수 없다.
+
+#### Proxy 설정
+https://create-react-app.dev/docs/proxying-api-requests-in-development
+
+npm install http-proxy-middleware --save
+
