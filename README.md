@@ -93,3 +93,17 @@ https://create-react-app.dev/docs/proxying-api-requests-in-development
 
 npm install http-proxy-middleware --save
 
+## 23 Proxy Server ?
+#### Proxy Server란
+[User] ⇔ [Proxy Server] ⇔ [Internet]
+1. IP를 Proxy Server에서 임의로 바꿀 수 있다.
+2. 보내는 데이터도 임의로 바꿀 수 있다.
+3. 방화벽 기능
+4. 웹 필터 기능
+5. 캐시 데이터, 공유 데이터 제공 기능
+
+#### Proxy Server 사용 이유!
+1. 회사에서 직원들이나 집안에서 아이들 인터넷 사용 제어
+2. 캐시를 이용해 더 빠른 인터넷 이용 제공
+3. 더 나은 보안 제공
+4. 이용 제한된 사이트 접근 가능
